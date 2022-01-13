@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Kucing &amp; Anjing &amp; Buaya"
+        android:text="@string/judul"
         android:fontFamily="casual"
         android:textStyle="bold"
         android:textColor="@color/design_default_color_primary_dark"
@@ -61,7 +61,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="(Pilih gambar untuk membuka galeri)"
+        android:text="@string/pilih_gambar"
         android:textStyle="italic"
         android:layout_marginBottom="32dp"
         />
@@ -79,7 +79,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
         android:textStyle="italic"
-        android:text="(Klick Profile untuk melihat biodata pembuat) "/>
+        android:text="@string/klik2"/>
 
 
 </LinearLayout>
